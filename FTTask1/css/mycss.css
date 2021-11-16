@@ -1,0 +1,77 @@
+.box{
+    width: auto;
+    
+    
+    
+}
+
+.title1
+{
+    background-color: paleturquoise;
+    color: black;
+}
+.title2
+{
+    background-color: paleturquoise;
+    color:#339EFF;
+}
+
+input[type=text] 
+{
+    background-color: white;
+    border-color: gray;
+    color: black;
+  }
+
+  input[type=password] 
+{
+    background-color: white;
+    border-color: gray;
+    color: black;
+  }
+
+  input[type=email] 
+{
+    background-color: white;
+    border-color: gray;
+    color: black;
+  }
+  input[type=radio] 
+  {
+      background-color: white;
+      border-color: gray;
+      color: black;
+    }
+
+
+  input[type=file] 
+  {
+      background-color: white;
+      border-color: gray;
+      color: black;
+    }
+
+    label {
+        background-color: rgb(255, 238, 192);
+        color: black;
+        font-weight: bold;
+        display: block;
+        width: 150px;
+        float: left;
+        
+        }
+        label:after { content: ": " }
+
+.reset
+{
+    background-color: #338EFF;
+    color:black;
+    border-radius: 5px;
+}
+
+.submit
+{
+    background-color: #338EFF;
+    color:black;
+    border-radius: 5px;
+}
